@@ -89,7 +89,6 @@ python wedown_api.py
 ```
 wedown/
 ── wedown_api.py          # 主程序（带术语翻译功能）
-├── wedown.py              # 基础版本
 ├── libs/                  # 本地依赖库
 ├── down_samples/          # 示例文件
 └── README.md              # 说明文档
