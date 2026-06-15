@@ -1,3 +1,5 @@
+![Uploading sc2.png…]()
+
 # 公众号文章批量下载与术语表生成工具
 
 一款基于 PyQt5 的桌面应用，支持批量下载微信公众号文章、智能提取术语、AI 自动翻译，并导出为 Excel/CSV/Markdown 等多种格式。
@@ -89,7 +91,7 @@ python wedown_api.py
 ```
 wedown/
 ── wedown_api.py          # 主程序（带术语翻译功能）
-├── libs/                  # 本地依赖库
+├── libs/                  # 本地依赖库(release v1.0中下载3个压缩包)
 ├── down_samples/          # 示例文件
 └── README.md              # 说明文档
 ```
